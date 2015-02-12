@@ -1,0 +1,15 @@
+{
+  "name": "Gulp App",
+  "version": "1.0.0",
+  "description": "Gulp and Gulp Stylus",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shoaib Ud-Din",
+  "license": "BSD",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-stylus": "^2.0.0"
+  }
+}
